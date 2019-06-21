@@ -1,7 +1,7 @@
 {
   "name": "websiteaadi",
   "version": "0.1.0",
-  "homepage": "http://raj-bhavan.github.io/website/websiteaadi",
+  "homepage": "http://raj-bhavan.github.io/website",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
