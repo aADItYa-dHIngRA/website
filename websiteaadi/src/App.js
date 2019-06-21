@@ -1,4 +1,4 @@
-port React from 'react';
+import React from 'react';
 import Video from './video'
 //import logo from './logo.svg'
 import './App.css'
